@@ -1,2 +1,2 @@
 # huthome
-http://squirrelman.github.io/index.html
+http://squirrelman.github.io/huthome
